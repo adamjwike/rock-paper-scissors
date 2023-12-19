@@ -1,6 +1,6 @@
-playGame();
+game();
 
-function playGame() {
+function game() {
   let computerCounter = 0;
   let playerCounter = 0;
   while (computerCounter < 5 && playerCounter < 5) {
